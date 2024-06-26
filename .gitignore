@@ -5,3 +5,5 @@
 *.Rproj
 *.gmt
 Homo_sapiens.gene_info
+*.faa
+*.pdf
